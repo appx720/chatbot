@@ -4,7 +4,7 @@
   "version": "1.0",
   "description": "방문기록 수집",
   "permissions": [
-    "history"
+    "history", "alarms"
   ],
   "host_permissions": ["http://localhost:8000/"],
   "background": {
